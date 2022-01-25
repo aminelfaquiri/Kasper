@@ -1,5 +1,4 @@
 /* Start Global Rules */
-/* hello Im change */
 *{
     box-sizing: border-box;
     padding: 0px;
@@ -229,7 +228,7 @@ header nav .form i{
 .landing {
     min-height: 100vh;
     background-color: var(--main-color);
-    background-image: url(/image/3.jpg);
+    background-image: url(/IMG/3.jpg);
     background-size: cover;
     position: relative;
 }
@@ -394,7 +393,7 @@ header nav .form i{
 .desgine {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/image/2.jpg);
+    background-image: url(/IMG/2.jpg);
     background-size: cover;
     height: 500px;
     display: flex;
@@ -645,7 +644,7 @@ header nav .form i{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
 
-    background-image: url(/image/img5.jpg);
+    background-image: url(/IMG/img5.jpg);
     background-size: cover;   
     text-align: center;
     position: relative;
@@ -857,7 +856,7 @@ justify-content: center;
 .quote{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/image/img5.jpg);
+    background-image: url(/IMG/img5.jpg);
     background-size: cover;
     color: white;
     position: relative;
@@ -1004,7 +1003,7 @@ justify-content: center;
 .subscribe{
     padding-top: 60px;
     padding-bottom: 60px;
-    background-image: url(/image/img5.jpg);
+    background-image: url(/IMG/img5.jpg);
     background-size: cover;
     position: relative;
 }
@@ -1201,7 +1200,7 @@ justify-content: center;
         padding-bottom: calc(var(--section-padding) / 4);
         text-align: center;
         color: white;
-        background-image: url(/image/img8.jpg);
+        background-image: url(/IMG/img8.jpg);
         background-size: cover;
         position: relative;
         
